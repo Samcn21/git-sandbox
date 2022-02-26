@@ -1,2 +1,2 @@
 # git-sandbox
-training my family with git
+training my family with git from setareh
