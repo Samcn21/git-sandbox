@@ -1,5 +1,5 @@
 # git-sandbox
-training my family with git
+training my students with git
 
 Apps we need to install:
 1- vs code
