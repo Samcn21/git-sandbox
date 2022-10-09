@@ -1,5 +1,5 @@
 # git-sandbox. 
-training my students with  git
+training my students with git
 
 Apps we need to install:
 
