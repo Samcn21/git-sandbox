@@ -6,5 +6,3 @@ Apps we need to install:
 1- vs code 
 2- source tree   
 
-
-
